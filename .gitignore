@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Record Book MVVM/obj/Debug/net7.0-windows/Record Book MVVM.dll
+/Record Book MVVM/obj/Debug/net7.0-windows/Record Book MVVM.pdb
