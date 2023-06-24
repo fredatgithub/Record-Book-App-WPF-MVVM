@@ -77,7 +77,7 @@ namespace Record_Book_MVVM.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Record Book MVVM;component/views/main.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Record Book MVVM;V1.0.0.0;component/views/main.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\Main.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

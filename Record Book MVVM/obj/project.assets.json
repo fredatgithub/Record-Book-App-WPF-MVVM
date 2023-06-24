@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\Repos\\Record-Book-App-WPF-MVVM\\Record Book MVVM\\Record Book MVVM.csproj",
+      "projectUniqueName": "F:\\repos\\Record-Book-App-WPF-MVVM\\Record Book MVVM\\Record Book MVVM.csproj",
       "projectName": "Record Book MVVM",
-      "projectPath": "f:\\Repos\\Record-Book-App-WPF-MVVM\\Record Book MVVM\\Record Book MVVM.csproj",
+      "projectPath": "F:\\repos\\Record-Book-App-WPF-MVVM\\Record Book MVVM\\Record Book MVVM.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "f:\\Repos\\Record-Book-App-WPF-MVVM\\Record Book MVVM\\obj\\",
+      "outputPath": "F:\\repos\\Record-Book-App-WPF-MVVM\\Record Book MVVM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
