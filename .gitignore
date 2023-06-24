@@ -1,0 +1,16 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Record Book MVVM/v17/.suo
+/.vs/Record Book MVVM/FileContentIndex/04ea1a13-d5b5-40ed-b9b4-e4e85b470ed8.vsidx
+/.vs/Record Book MVVM/FileContentIndex/126ba803-94fe-4eae-8e4a-e1f12f1ca815.vsidx
+/.vs/Record Book MVVM/FileContentIndex/19de5755-efe4-475c-81f7-d4d49fa6c35a.vsidx
+/.vs/Record Book MVVM/FileContentIndex/b4cc2ed0-4183-42be-8f46-b938ca4868cc.vsidx
+/.vs/Record Book MVVM/FileContentIndex/badd69c1-d044-4df3-b2f5-51b21047637f.vsidx
+/.vs/Record-Book-App-WPF-MVVM/v17
+/Record Book MVVM/bin/Debug/net7.0-windows/Record Book MVVM.dll
+/Record Book MVVM/bin/Debug/net7.0-windows/Record Book MVVM.exe
+/Record Book MVVM/bin/Debug/net7.0-windows/Record Book MVVM.pdb
+/Record Book MVVM/obj/Debug/net7.0-windows/ref/Record Book MVVM.dll
+/Record Book MVVM/obj/Debug/net7.0-windows/refint/Record Book MVVM.dll

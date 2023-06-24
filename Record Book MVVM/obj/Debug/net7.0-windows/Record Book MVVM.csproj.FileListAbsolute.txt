@@ -23,3 +23,27 @@ C:\Users\Jamie\source\repos\Record Book MVVM\Record Book MVVM\obj\Debug\net7.0-w
 C:\Users\Jamie\source\repos\Record Book MVVM\Record Book MVVM\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\Jamie\source\repos\Record Book MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Views\AddUser.g.cs
 C:\Users\Jamie\source\repos\Record Book MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Views\AddUser.baml
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\bin\Debug\net7.0-windows\Record Book MVVM.exe
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\bin\Debug\net7.0-windows\Record Book MVVM.deps.json
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\bin\Debug\net7.0-windows\Record Book MVVM.runtimeconfig.json
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\bin\Debug\net7.0-windows\Record Book MVVM.dll
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\bin\Debug\net7.0-windows\Record Book MVVM.pdb
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM.csproj.AssemblyReference.cache
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Views\AddUser.g.cs
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Views\Main.g.cs
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\App.g.cs
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM_MarkupCompile.cache
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM_MarkupCompile.lref
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\App.baml
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Views\AddUser.baml
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Views\Main.baml
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM.g.resources
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM.GeneratedMSBuildEditorConfig.editorconfig
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM.AssemblyInfoInputs.cache
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM.AssemblyInfo.cs
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM.csproj.CoreCompileInputs.cache
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM.dll
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\refint\Record Book MVVM.dll
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM.pdb
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\Record Book MVVM.genruntimeconfig.cache
+f:\Repos\Record-Book-App-WPF-MVVM\Record Book MVVM\obj\Debug\net7.0-windows\ref\Record Book MVVM.dll
