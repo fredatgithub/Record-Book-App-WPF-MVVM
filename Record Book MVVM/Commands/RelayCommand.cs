@@ -13,10 +13,8 @@ namespace Record_Book_MVVM.Commands
 
     public RelayCommand(Action<object> ExcuteMethod, Predicate<object> CanExcuteMethod)
     {
-
       _Excute = ExcuteMethod;
       _CanExcute = CanExcuteMethod;
-
     }
 
     public bool CanExecute(object? parameter)
